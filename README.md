@@ -1,7 +1,7 @@
-# Hackaton 4.0 Saúde | Glasgow Back-end 🧠
+# Forum | Framework Nest.js 🧠
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/iKaueMatos/Glasgow)](https://github.com/iKaueMatos/Glasgow/issues)
+[![GitHub issues](https://img.shields.io/github/issues/iKaueMatos/forum-nestjs)](https://github.com/iKaueMatos/forum-nestjs/issues)
 
 ## Visão Geral
 
